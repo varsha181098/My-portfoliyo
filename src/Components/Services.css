@@ -1,0 +1,9 @@
+.hvo{
+    transition: 0.5s, tranform 0.5s;
+
+}
+.hvo :hover{
+    background-color: #ff004f;
+    transform: translateY(-10px);
+
+}
